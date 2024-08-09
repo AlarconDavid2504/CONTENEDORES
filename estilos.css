@@ -1,0 +1,123 @@
+*{
+    box-sizing: border-box;
+}
+#contenedor{
+    width: 80%;
+    height: 200px;
+    
+    margin: auto;
+}
+.caja1 {
+    width: 90%;
+    height: 90px;
+    background-color:  blue;
+    padding: 5px;
+
+    float: left;
+    border: 5px solid black;
+}
+.caja2 {
+    width: 90%;   
+    height: 50px;
+    background-color: red;
+    padding: 5px;
+    border: 5px solid black;
+    float: left;
+
+}
+.caja3 {
+    width: 90%;   
+    height: 400px;
+    background-color: purple;
+    padding: 5px;
+    border: 5px solid black;
+    float: left;
+
+}
+.caja4 {
+    width: 90%;   
+    height: 90px;
+    background-color: orange;
+    padding: 5px;
+    border: 5px solid black;
+    float: left;
+    margin-bottom: 50px;
+}
+
+
+
+
+.caja5 {
+    width: 90%;
+    height: 90px;
+    background-color:  blue;
+    padding: 5px;
+
+    float: left;
+    border: 5px solid black;
+}
+.caja6 {
+    width: 20%;   
+    height: 400px;
+    background-color: red;
+    border: 5px solid black;
+    float: left;
+
+}
+.caja7 {    
+    width: 70%;   
+    height: 400px;
+    background-color: purple;
+    padding: 5px;
+    border: 5px solid black;
+    float: left;
+
+}
+.caja8 {
+    width: 45%;   
+    height: 90px;
+    background-color: orange;
+    padding: 5px;
+    border: 5px solid black;
+    float: left;
+
+}
+.caja9 {
+    width: 45%;   
+    height: 90px;
+    background-color: orange;
+    padding: 5px;
+    border: 5px solid black;
+    float: left;
+margin-bottom: 50px;
+}
+
+
+
+
+.caja10 {
+    width: 70%;
+    height: 600px;
+    background-color: blue;
+    padding: 5px;
+
+    float: left;
+    border: 5px solid black;
+}
+.caja11 {
+    width: 20%;   
+    height: 400px;
+    background-color: red;
+    border: 5px solid black;
+    float: left;
+
+}
+.caja12 {    
+    width: 20%;   
+    height: 200px;
+    background-color: purple;
+    padding: 5px;
+    border: 5px solid black;
+    float: left;
+    margin-bottom: 50px;
+}
